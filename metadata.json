@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Assistant",
+  "description": "A powerful, responsive study companion that generates summaries, flashcards, and quizzes using Gemini AI.",
+  "requestFramePermissions": []
+}
